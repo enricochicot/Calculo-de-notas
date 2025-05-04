@@ -26,11 +26,6 @@ Editor de código (recomendado: Visual Studio Code)
 
 Terminal (CMD, PowerShell ou terminal integrado no VS Code)
 
-# 📥 Compilação
-g++ -o notas notas.cpp
-
-Esse comando irá gerar o executável notas.
-
 # 🧪 Objetivo Educacional
 Entrada e saída de dados no console (cin, cout)
 
