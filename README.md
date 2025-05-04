@@ -18,8 +18,8 @@ A função de cálculo processa a média.
 
 O programa exibe o resultado no console.
 
-# 💻 Instalação e Execução
-# ✅ Requisitos
+# 💻 Para a execução do código:
+
 Compilador C++ (recomendado: g++)
 
 Editor de código (recomendado: Visual Studio Code)
