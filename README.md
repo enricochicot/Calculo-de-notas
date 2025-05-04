@@ -27,8 +27,6 @@ Editor de código (recomendado: Visual Studio Code)
 Terminal (CMD, PowerShell ou terminal integrado no VS Code)
 
 # 📥 Compilação
-Se o arquivo do código principal se chama notas.cpp, utilize o seguinte comando para compilar:
-
 g++ -o notas notas.cpp
 
 Esse comando irá gerar o executável notas.
